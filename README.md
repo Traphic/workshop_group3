@@ -1,1 +1,1 @@
-# workshop_group3
+The Blazor blog project for the third group.
